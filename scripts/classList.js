@@ -7,8 +7,6 @@
  * NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
  */
  
-"use strict";
- 
 if (typeof Element !== "undefined" && !Element.prototype.hasOwnProperty("classList")) {
  
 (function () {

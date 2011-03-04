@@ -6,7 +6,7 @@ window.onload = function() {
     //createAnchors();
     //fixZIndex()
     //createCloud();
-    addDelayToTags();
+    //addDelayToTags();
 
     if (document.location.hash == "#xxxie") {
         document.body.classList.add("activexxxie");
