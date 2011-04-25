@@ -1,8 +1,8 @@
 /***** @font-face *****/
-@font-face { font-family: bebas; src: url(fonts/BebasNeue.otf);}
-@font-face { font-family: ubuntu; src: url(fonts/ubuntu.ttf);}
-@font-face { font-family: marketing; src: url(fonts/MarketingScript.ttf);}
-@font-face { font-family: megalopolis; src: url(fonts/MEgalopolisExtra.woff);}
+@font-face { font-family: bebas; src: local("BebasNeue") url(fonts/BebasNeue.otf);}
+@font-face { font-family: ubuntu; src: local("Ubuntu") url(fonts/ubuntu.ttf);}
+@font-face { font-family: marketing; src: local("MarketingScript") url(fonts/MarketingScript.ttf);}
+@font-face { font-family: megalopolis; src: local("MEgalopolisExtra") url(fonts/MEgalopolisExtra.woff);}
 
 
 /***** general stuff *****/
